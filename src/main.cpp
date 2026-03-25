@@ -20,7 +20,7 @@ int main(void) {
 
 	glfwWindowHint(GLFW_SAMPLES, 4); // 4x antialiasing
 
-	window = glfwCreateWindow(800, 600, "3D Washing Machine Model", NULL, NULL);
+	window = glfwCreateWindow(1200, 1000, "3D Washing Machine Model", NULL, NULL);
 
 	if (!window) {
 		glfwTerminate();
