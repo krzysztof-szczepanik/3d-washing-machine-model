@@ -37,60 +37,6 @@ Supports animations, camera control, and object interaction, including door open
 
 ---
 
-## 🖼️ Screenshots
-
-### 🧼 Model Views
-
-| Right View | Left View |
-|-----------|----------|
-| ![](docs/assets/right_view.png) | ![](docs/assets/left_view.png) |
-
-<br>
-
-### 💡 Lighting
-
-| Directional Light (Blue) | Directional + Global |
-|-------------------------|----------------------|
-| ![](docs/assets/light1.png) | ![](docs/assets/light1_global.png) |
-
-<br>
-
-| Point Light (Red) | Point + Global |
-|------------------|----------------|
-| ![](docs/assets/light2.png) | ![](docs/assets/light2_global.png) |
-
-<br>
-
----
-
-## 🎬 Demo
-
-### 🔄 Auto Rotation
-
-
-<br>
-
-### 💡 Light Intensity Control
-
-![intensity](https://github.com/user-attachments/assets/8a81cfe8-e6d8-4940-9ac0-3dd433c306f9)
-
-
-<br>
-
-### 🎮 Animations (combined)
-
-- door opening
-- detergent drawer
-- display activation
-
-https://github.com/user-attachments/assets/YOUR_VIDEO_3
-
-
-
-<br>
-
----
-
 ## 🏗️ Project Structure
 ```
 3d-washing-machine-model/
@@ -213,18 +159,71 @@ Run the application:
 
 ---
 
-# 🎮 Controls
+## 🎬 Demo
 
-The application uses keyboard input for interaction:
-
-Camera movement and rotation
-Zoom control
-Light toggling and intensity control
-Animation triggers (door, drum, etc.)
-
-Full list of controls is displayed in the console at runtime.
+### Auto Rotation
 
 <br>
+
+### Animations (combined)
+
+- door opening
+- detergent drawer
+- display activation
+
+![animation](https://github.com/user-attachments/assets/e2d7cf80-91b3-474f-a9dc-4542d092525e)
+
+<br>
+
+### Light Intensity Control
+
+![intensity](https://github.com/user-attachments/assets/8a81cfe8-e6d8-4940-9ac0-3dd433c306f9)
+
+<br>
+
+---
+
+## 📷 Screenshots
+
+<br>
+
+### Model Views
+
+| Left View | Right View |
+|:----------:|:---------:|
+| <img width="1200" height="1000" alt="view_left" src="https://github.com/user-attachments/assets/336a6d6b-8fc8-4467-8b58-c8bde17fb1cb" /> | <img width="1200" height="1000" alt="view_right" src="https://github.com/user-attachments/assets/adea21f8-86fe-4d02-8f58-950ab2a67c36" /> |
+
+<br>
+
+### Lighting
+
+| Directional Light (Blue) | Directional + Global |
+|:------------------------:|:--------------------:|
+| <img width="1200" height="1000" alt="light1" src="https://github.com/user-attachments/assets/dbb07777-4ff8-45c9-ab95-ae0cafe7cbd9" /> | <img width="1200" height="1000" alt="light1_light0" src="https://github.com/user-attachments/assets/a6a824ab-1adf-435e-a9e5-3935b8a19b98" /> |
+
+<br>
+
+| Ambient Light (Red) | Ambient + Global |
+|:-------------------:|:----------------:|
+| <img width="1200" height="1000" alt="light2" src="https://github.com/user-attachments/assets/4abbeb40-f314-49a8-a0ac-1bdb655954b3" /> | <img width="1200" height="1000" alt="light2_light0" src="https://github.com/user-attachments/assets/95609718-9ed9-4009-bf80-755c86bcaf9e" /> |
+
+<br>
+
+---
+
+# 🖥️ Console Output
+
+Screenshot of runtime console displaying:
+- Object coordinates
+- Light positions and intensity
+- Active shortcuts
+- Loaded textures
+
+<br>
+
+<img width="1135" height="1075" alt="console" src="https://github.com/user-attachments/assets/fa31729b-63ee-4db0-bafc-96885c717692" />
+
+<br><br>
 
 ---
 
