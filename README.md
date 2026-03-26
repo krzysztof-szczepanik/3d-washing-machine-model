@@ -163,6 +163,8 @@ Run the application:
 
 ### Auto Rotation
 
+![auto_rotation](https://github.com/user-attachments/assets/60b39542-d56a-4c2b-a6cb-98f3c18fdd21)
+
 <br>
 
 ### Animations (combined)
