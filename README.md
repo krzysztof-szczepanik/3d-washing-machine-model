@@ -175,6 +175,18 @@ Run the application:
 
 <br>
 
+### Translation
+
+![translation](https://github.com/user-attachments/assets/167beacb-ffb2-405a-9670-b545ba6cd335)
+
+<br>
+
+### Rotation
+
+![rotation](https://github.com/user-attachments/assets/4da9769b-f279-4193-b8ad-12d6640b8e52)
+
+<br>
+
 ### Light Intensity Control
 
 ![intensity](https://github.com/user-attachments/assets/8a81cfe8-e6d8-4940-9ac0-3dd433c306f9)
