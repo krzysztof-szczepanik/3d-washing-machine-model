@@ -199,8 +199,6 @@ Run the application:
 
 ## 📷 Screenshots
 
-<br>
-
 ### Model Views
 
 | Left View | Right View |
